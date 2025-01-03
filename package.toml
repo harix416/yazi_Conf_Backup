@@ -1,0 +1,5 @@
+[plugin]
+deps = [{ use = "Sonico98/exifaudio", rev = "d794614" }, { use = "AnirudhG07/nbpreview", rev = "1d85745" }, { use = "hankertrix/augment-command", rev = "f6a7bb9" }, { use = "yazi-rs/plugins:full-border", rev = "71c4fc2" }, { use = "yazi-rs/plugins:max-preview", rev = "71c4fc2" }, { use = "llanosrocas/githead", rev = "bf150f3" }, { use = "yazi-rs/plugins:smart-enter", rev = "71c4fc2" }, { use = "boydaihungst/mediainfo", rev = "ddfd5ec" }, { use = "Ape/open-with-cmd", rev = "a80d1cf" }, { use = "Lil-Dank/lazygit", rev = "c82794f" }]
+
+[flavor]
+deps = [{ use = "yazi-rs/flavors:catppuccin-mocha", rev = "fc8eeaa" }, { use = "yazi-rs/flavors:catppuccin-latte", rev = "fc8eeaa" }, { use = "yazi-rs/flavors:catppuccin-macchiato", rev = "fc8eeaa" }, { use = "yazi-rs/flavors:catppuccin-frappe", rev = "fc8eeaa" }]

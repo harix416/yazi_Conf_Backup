@@ -1,0 +1,10 @@
+# : Flavor {{{
+
+[flavor]
+# use = "catppuccin-mocha"
+# use = "catppuccin-latte"
+# For upcoming Yazi 0.4 (nightly version):
+light = "catppuccin-latte"
+dark = "catppuccin-mocha"
+
+# : }}}
